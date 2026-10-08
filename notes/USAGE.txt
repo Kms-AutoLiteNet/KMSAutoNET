@@ -1,0 +1,4 @@
+USAGE KMSAuto
+Admin. Offline. Win/Office.
+Extract. Run. See readme.
+Stamp rev-b8c30a-20261008
